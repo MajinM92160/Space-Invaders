@@ -1,3 +1,4 @@
+
 .grille {
     display: flex;
     flex-wrap: wrap;
@@ -19,11 +20,10 @@
     }
 }
 
-h3{
+h3 {
     text-align: center;
     margin: 20px 0;
 }
-
 .grille div {
     width: 25px;
     height: 25px;
@@ -39,9 +39,9 @@ h3{
     background-position: center;
     background-size: contain;
 }
-.boom{
+.boom {
     background-color: red;
 }
 .laser {
     background-color: orange;
-}
+            }
